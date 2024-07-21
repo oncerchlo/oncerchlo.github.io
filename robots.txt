@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oncerchlo.github.io/sitemap
+Sitemap: https://oncerchlo.github.io/app/sitemap
+Sitemap: https://oncerchlo.github.io/assets/sitemap
+Sitemap: https://oncerchlo.github.io/css/sitemap
+Sitemap: https://oncerchlo.github.io/includes/sitemap
+Sitemap: https://oncerchlo.github.io/item/sitemap
+Sitemap: https://oncerchlo.github.io/src/sitemap
